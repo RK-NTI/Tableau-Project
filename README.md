@@ -29,4 +29,6 @@
 # Key Insights
 
 • Interactive filters for Category, Payment Method & Sub-Category
-<img width="1602" height="797" alt="tableau dashboard 2" src="https://github.com/user-attachments/assets/473b2ff4-6c9e-4e65-ae6c-5ef14abae10b" />
+
+<img width="1596" height="797" alt="Tableau_Project_Dashboard" src="https://github.com/user-attachments/assets/ce5f5dab-9fb1-4d31-b687-bf8b65a98523" />
+
