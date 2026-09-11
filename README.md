@@ -5,7 +5,7 @@
 • Conducted in depth research on actionable insights to support sales performance monitoring, customer analysis, product performance evaluation & making business responsible business decisions.
 
 
-# 🔹 Key KPIs: 
+# 📌 Key KPIs: 
 
 💰 Total Sales: 642.13M
 
@@ -17,7 +17,7 @@
 
 🏷️ Average Discount: 15%
 
-# 📌 What I analyzed: 
+# 🔍 What I analyzed: 
 
 • Top 10 Customers by Sales
 
