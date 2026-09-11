@@ -48,5 +48,6 @@
 🔹The overall average discount is 15%, providing a useful metric for evaluating the relationship between discounting and sales performance.
 
 
+
 <img width="1596" height="797" alt="Tableau_Project_Dashboard" src="https://github.com/user-attachments/assets/ce5f5dab-9fb1-4d31-b687-bf8b65a98523" />
 
