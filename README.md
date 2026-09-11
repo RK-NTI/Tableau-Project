@@ -17,7 +17,7 @@
 
 🏷️ Average Discount: 15%
 
-🔹 What I analyzed: 
+# 📌 What I analyzed: 
 
 • Top 10 Customers by Sales
 
