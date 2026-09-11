@@ -1,21 +1,21 @@
-📊 Amazon Sales Performance Analysis Dashboard (Tableau-Project)
+# 📊 Amazon Sales Performance Analysis Dashboard (Tableau-Project)
 
 • Designed an interactive Tableau dashboard to analyze Amazon Sales Performance.
 
 • Conducted in depth research on actionable insights to support sales performance monitoring, customer analysis, product performance evaluation & making business responsible business decisions.
 
 
-#🔹 Key KPIs: 
+# 🔹 Key KPIs: 
 
-Total Sales: 642.13M
+💰 Total Sales: 642.13M
 
-• Total Orders: 10,000
+🛒 Total Orders: 10,000
 
-• Total Customers: 6,016
+👥 Total Customers: 6,016
 
-• Total Quantity: 30,144
+📦 Total Quantity: 30,144
 
-• Average Discount: 15%
+🏷️ Average Discount: 15%
 
 🔹 What I analyzed: 
 
@@ -31,7 +31,7 @@ Total Sales: 642.13M
 
 • State-wise Sales Performance
 
-🔑 Key Insights
+# 🔑 Key Insights
 
 🔹Total Sales reached 642.13M, indicating strong overall sales performance across the business.
 
