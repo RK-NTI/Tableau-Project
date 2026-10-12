@@ -1,4 +1,5 @@
-# 📊 Amazon Sales Performance Analysis Dashboard (Tableau-Project)
+# Tableau-Project
+# 📊 Amazon Sales Performance Analysis Dashboard 
 
 🔹Designed an interactive Tableau dashboard to analyze Amazon Sales Performance.
 
